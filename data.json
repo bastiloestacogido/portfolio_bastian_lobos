@@ -38,5 +38,13 @@
         "technique": "Acuarelas",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
         "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
+    },
+    { 
+        "title": "dibujo-5",
+        "date": "22-06-2022",
+        "format": "Tradicional",
+        "technique": "Acuarelas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
     }
 ]
