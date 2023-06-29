@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:wght@700&display=swap");
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Ubuntu", sans-serif;
+}
+
+p,
+ul,
+li {
+    font-family: "Open Sans", sans-serif;
+}
+
+a {
+    font-family: "Open Sans", sans-serif;
+    color: #f2f7fc;
+    text-decoration-style: dotted;
+}
+a:hover {
+    text-decoration-style: solid;
+}
+
+body {
+    background: #35383b;
+}
+
+#navbarHeader {
+    background: #1e2024;
+    color: #f2f7fc;
+}
+
+#navbarToggler {
+    background: #484a4d;
+    color: #f2f7fc;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(242, 247, 252)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #f2f7fc;
+}
+
+#frase {
+    background: url("https://picsum.photos/id/114/800/400?blur=10") center center no-repeat;
+    background-size: cover;
+    font-family: "Ubuntu", sans-serif;
+    color: #ccc;
+}
+
+#dibujos {
+    background: #484a4d;
+}
+
+#cardStroke {
+    background: #484a4d;
+}
+
+#cards {
+    background: #35383b;
+    color: #ccc;
+}
+
+#carouselText {
+    color: #ccc;
+}
+
+footer {
+    background: #1e2024;
+    color: #f2f7fc;
+}

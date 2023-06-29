@@ -2,39 +2,39 @@
     { 
         "title": "Ron",
         "technique": "Brush Pen y Marcadores Copic",
-        "description": "Esta es una Ilustración de mi perro Ron. Esta fue una de las primeras ilustraciones que hice utilizando un Brush Pen, que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel",
+        "description": "Esta es una Ilustración de mi perro Ron. Esta fue una de las primeras ilustraciones que hice utilizando un Brush Pen, que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel.",
         "img": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/253/500/310", "https://picsum.photos/id/254/500/310"]
     },
 
     { 
         "title": "Mecha Girl",
         "technique": "Plumilla",
-        "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams, es por esto que en mis dibujos me gusta mezclar personas con partes de mechas",
+        "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams, es por esto que en mis dibujos me gusta mezclar personas con partes de mechas.",
         "img": ["https://picsum.photos/id/49/500/310", "https://picsum.photos/id/50/500/310", "https://picsum.photos/id/51/500/310"]
     },
 
     { 
         "title": "Tigre en Traje",
         "technique": "Tinta China y Marcadores Copic",
-        "description": "El animales que siempre me ha llamado la antención es el tigre, es probablemente el animal que más he dibujado toda mi vida. En esta ocasión utilicé tinta china para el dibujo y los marcadores para colorearlo",
+        "description": "El animales que siempre me ha llamado la antención es el tigre, es probablemente el animal que más he dibujado toda mi vida. En esta ocasión utilicé tinta china para el dibujo y los marcadores para colorearlo.",
         "img": ["https://picsum.photos/id/23/500/310", "https://picsum.photos/id/24/500/310", "https://picsum.photos/id/25/500/310"]
     },
     { 
-        "title": "dibujo-4",
-        "technique": "Carboncillo",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "title": "Preston Blair",
+        "technique": "Grafito",
+        "description": "El primer libro de animación que tuve fue el libro Cartoon Animation de Preston Blair. Este libro me lo dieron a los 8 años y hasta el día de hoy sigo utilizándolo como un libro de referencia para dibujar.",
         "img": ["https://picsum.photos/id/119/500/310", "https://picsum.photos/id/120/500/310", "https://picsum.photos/id/121/500/310"]
     },
     { 
-        "title": "dibujo-5",
-        "technique": "Acuarelas",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "title": "Coyote",
+        "technique": "Brush Pen",
+        "description": "Otra de las cosas que me gusta dibujar son cabezas de animales sobre personas, esto realmente es un influencia que he desarrollado viendo las ilustraciones de Kim Jung Gi, ya que era algo habitual en sus dibujos.",
         "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
     },
     { 
-        "title": "dibujo-5",
-        "technique": "Acuarelas",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "title": "To the Moon",
+        "technique": "Tinta China",
+        "description": "Esta es una de las ilustraciones más recientes que he hecho, la hice el año pasado utilizando únicamente tinta china. Recuerdo que me costó bastante realizarla porque estaba probando un pincel japonés que era muy difícil de controlar.",
         "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
     }
 ]
