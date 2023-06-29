@@ -10,31 +10,31 @@
         "title": "Mecha Girl",
         "technique": "Plumilla",
         "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams, es por esto que en mis dibujos me gusta mezclar personas con partes de mechas.",
-        "img": ["https://picsum.photos/id/49/500/310", "https://picsum.photos/id/50/500/310", "https://picsum.photos/id/51/500/310"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-04.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-05.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-06.jpg"]
     },
 
     { 
         "title": "Tigre en Traje",
         "technique": "Tinta China y Marcadores Copic",
         "description": "El animales que siempre me ha llamado la antención es el tigre, es probablemente el animal que más he dibujado toda mi vida. En esta ocasión utilicé tinta china para el dibujo y los marcadores para colorearlo.",
-        "img": ["https://picsum.photos/id/23/500/310", "https://picsum.photos/id/24/500/310", "https://picsum.photos/id/25/500/310"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-07.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-08.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-09.jpg"]
     },
     { 
         "title": "Preston Blair",
         "technique": "Grafito",
         "description": "El primer libro de animación que tuve fue el libro Cartoon Animation de Preston Blair. Este libro me lo dieron a los 8 años y hasta el día de hoy sigo utilizándolo como un libro de referencia para dibujar.",
-        "img": ["https://picsum.photos/id/119/500/310", "https://picsum.photos/id/120/500/310", "https://picsum.photos/id/121/500/310"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-10.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-11.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-12.jpg"]
     },
     { 
         "title": "Coyote",
         "technique": "Brush Pen",
         "description": "Otra de las cosas que me gusta dibujar son cabezas de animales sobre personas, esto realmente es un influencia que he desarrollado viendo las ilustraciones de Kim Jung Gi, ya que era algo habitual en sus dibujos.",
-        "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-013.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-14.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-15.jpg"]
     },
     { 
         "title": "Astroboy",
         "technique": "Tinta China",
         "description": "asd",
-        "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-16.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-17.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-18.jpg"]
     }
 ]
