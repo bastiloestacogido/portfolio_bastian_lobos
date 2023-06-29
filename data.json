@@ -1,23 +1,21 @@
 [
     { 
-        "title": "dibujo-1",
-        "date": "20-05-2023",
-        "format": "Tradicional",
-        "technique": "Tinta China",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "title": "Ron",
+        "technique": "Brush Pen y Marcadores Copic",
+        "description": "Ilustración de mi perro Ron.",
+        "text": "Esta es una Ilustración de mi perro Ron. Esta fue una de las primeras ilustraciones que hice utilizando un Brush Pen, que es un marcador con una punta fibra sintética similar a la de un pincel",
         "img": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/253/500/310", "https://picsum.photos/id/254/500/310"]
     },
+
     { 
-        "title": "dibujo-2",
-        "date": "01-03-2023",
-        "format": "Tradicional",
-        "technique": "Tinta China",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
+        "title": "Mecha Girl",
+        "technique": "Plumilla",
+        "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams. Es por esto que en mis dibujos me gusta mezclar personas con partes de mechas.",
         "img": ["https://picsum.photos/id/49/500/310", "https://picsum.photos/id/50/500/310", "https://picsum.photos/id/51/500/310"]
     },
+
     { 
         "title": "dibujo-3",
-        "date": "14-08-2021",
         "format": "Digital",
         "technique": "Pixel Art",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
@@ -25,24 +23,18 @@
     },
     { 
         "title": "dibujo-4",
-        "date": "18-09-2022",
-        "format": "Tradicional",
         "technique": "Carboncillo",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
         "img": ["https://picsum.photos/id/119/500/310", "https://picsum.photos/id/120/500/310", "https://picsum.photos/id/121/500/310"]
     },
     { 
         "title": "dibujo-5",
-        "date": "22-06-2022",
-        "format": "Tradicional",
         "technique": "Acuarelas",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
         "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
     },
     { 
         "title": "dibujo-5",
-        "date": "22-06-2022",
-        "format": "Tradicional",
         "technique": "Acuarelas",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus est erat, ac vestibulum eros congue sed. Vivamus luctus suscipit.",
         "img": ["https://picsum.photos/id/305/500/310", "https://picsum.photos/id/306/500/310", "https://picsum.photos/id/307/500/310"]
