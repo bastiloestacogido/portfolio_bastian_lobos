@@ -3,38 +3,38 @@
         "title": "Ron",
         "technique": "Brush Pen y Marcadores Copic",
         "description": "Esta es una Ilustración de mi perro Ron. Esta fue una de las primeras ilustraciones que hice utilizando un Brush Pen, que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-01.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-02.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-03.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-01.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-02.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-03.jpg"]
     },
 
     { 
         "title": "Mecha Girl",
         "technique": "Plumilla",
         "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams, es por esto que en mis dibujos me gusta mezclar personas con partes de mechas.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-04.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-05.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-06.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-04.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-05.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-06.webp"]
     },
 
     { 
         "title": "Tigre en Traje",
         "technique": "Tinta China y Marcadores Copic",
         "description": "El animales que siempre me ha llamado la antención es el tigre, es probablemente el animal que más he dibujado toda mi vida. En esta ocasión utilicé tinta china para el dibujo y los marcadores para colorearlo.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-07.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-08.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-09.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-07.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-08.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-09.webp"]
     },
     { 
         "title": "Preston Blair",
         "technique": "Grafito",
         "description": "El primer libro de animación que tuve fue el libro Cartoon Animation de Preston Blair. Este libro me lo dieron a los 8 años y hasta el día de hoy sigo utilizándolo como un libro de referencia para dibujar.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-10.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-11.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-12.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-10.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-11.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-12.webp"]
     },
     { 
         "title": "Coyote",
         "technique": "Brush Pen",
         "description": "Otra de las cosas que me gusta dibujar son cabezas de animales sobre personas, esto realmente es un influencia que he desarrollado viendo las ilustraciones de Kim Jung Gi, ya que era algo habitual en sus dibujos.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-13.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-14.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-15.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-13.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-14.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-15.webp"]
     },
     { 
         "title": "Astroboy",
         "technique": "Tinta China",
         "description": "Esta es una ilustración de Astroboy, que es una de las animaciones que más veía de pequeño. Fue realizada con tinta china, en esa ocasión utilicé tres pinceles de diferentes grosores para terminar la ilustración.",
-        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-16.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-17.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-18.jpg"]
+        "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-16.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-17.webp", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-18.webp"]
     }
 ]
