@@ -39,11 +39,11 @@
             n = Number(n);
             //crearé una función asincrónica
             async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/bastiloestacogido/sesion_11/main/data.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/data.json");
                 const data = await consulta.json();
                 const cuantos = data.length;
                 //Como n es siempre número: Ya no tengo posibilidad de null
-                document.querySelector("#trabajos").innerHTML = '<div class="col"><h2 class="fs-1">' + data[n].title + "</a></h2><p>" + data[n].texto + "</p><small>#" + data[n].technique + "</small></div>";
+                document.querySelector("#trabajos").innerHTML = '<div class="col"><h2 class="fs-1">' + data[n].title + "</a></h2><p>" + data[n].description + "</p><small>#" + data[n].technique + "</small></div>";
                 //un forEach para cada foto del trabajo
                 data[n].img.forEach((x) => {
                     document.querySelector("#trabajos").innerHTML += '<div class="col"><img src="' + x + '" class="w-100 rounded shadow-sm"></div>';
