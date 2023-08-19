@@ -2,39 +2,39 @@
     { 
         "title": "Ron",
         "technique": "Brush Pen y Marcadores Copic",
-        "description": "Esta es una Ilustración de mi perro Ron. Esta fue una de las primeras ilustraciones que hice utilizando un Brush Pen, que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel.",
+        "description": "Esta es una Ilustración de un Bull terrier. En esta ilustración utilicé un Brush Pen, que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel, y marcadores Copic.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-01.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-02.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-03.jpg"]
     },
 
     { 
         "title": "Mecha Girl",
         "technique": "Plumilla",
-        "description": "La ilustración presenta una mezcla entre una chica y una mecha. Uno de mis pasatiempos desde muy chico es armar Gundams, es por esto que en mis dibujos me gusta mezclar personas con partes de mechas.",
+        "description": "La ilustración presenta una mezcla entre una chica y un mecha. En esta ocasión usé únicamente una plumilla G-Pen para hacer mangas, se puede utilizar para dibujar detalles muy pequeños, pero no sirve para ilustraciones en canvas grandes.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-04.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-05.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-06.jpg"]
     },
 
     { 
         "title": "Tigre en Traje",
         "technique": "Tinta China y Marcadores Copic",
-        "description": "El animal que siempre me ha llamado la antención es el tigre, es probablemente el animal que más he dibujado toda mi vida. En esta ocasión utilicé tinta china para el dibujo y los marcadores para colorearlo.",
+        "description": "Esta es una ilustración de un tigre en un traje. Esta ilustración surgió cuando estaba en un safri. En esa ocasión utilicé tinta china para el dibujo y marcadores Copic para colorearlo.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-07.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-08.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-09.jpg"]
     },
     { 
         "title": "Preston Blair",
         "technique": "Grafito",
-        "description": "El primer libro de animación que tuve fue el libro Cartoon Animation de Preston Blair. Este libro me lo dieron a los 8 años y hasta el día de hoy sigo utilizándolo como un libro de referencia para dibujar.",
+        "description": "El primer libro de animación que tuve fue el libro Cartoon Animation de Preston Blair. Este libro me lo dieron a los 8 años y hasta el día de hoy sigo utilizándolo como un libro de referencia para dibujar y animar.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-10.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-11.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-12.jpg"]
     },
     { 
         "title": "Coyote",
         "technique": "Brush Pen",
-        "description": "Otra de las cosas que me gusta dibujar son cabezas de animales sobre personas, esto realmente es un influencia que he desarrollado viendo las ilustraciones de Kim Jung Gi, ya que era algo habitual en sus dibujos.",
+        "description": "Esta es una ilustración de una chica utilizando una cabeza de coyote. Para esta ilustración utilicé, al igual que la primera, un brush pen que es un marcador con una punta fibra sintética similar a la punta que tiene un pincel.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-13.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-14.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-15.jpg"]
     },
     { 
         "title": "Astroboy",
         "technique": "Tinta China",
-        "description": "Esta es una ilustración de Astroboy, que es una de las animaciones que más veía de pequeño. Fue realizada con tinta china, en esa ocasión utilicé tres pinceles de diferentes grosores para terminar la ilustración.",
+        "description": "Esta es una ilustración de Astroboy, que es una de las animaciones que más veía de pequeño. Fue realizada con tinta china, en esa ocasión utilicé tres pinceles, Manso Brush, de diferentes grosores para dibujar la ilustración.",
         "img": ["https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-16.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-17.jpg", "https://raw.githubusercontent.com/bastiloestacogido/sesion_13/main/img/img-18.jpg"]
     }
 ]
